@@ -1,6 +1,7 @@
+[![<asterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh Kesarwai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://www.google.com/search?q=animated+coding+image&sxsrf=ALiCzsZZAbK_8-fPIUGHQr2BN8zCtGvC_w:1672773424921&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjtxqDOjqz8AhUG3jgGHYJtDfEQ_AUoAXoECAIQAw&biw=1707&bih=880&dpr=1.13#imgrc=ZmOH4FBlhx83-M&imgdii=55jyr3BK5duBpM
+<img align= "right" alt="coding" width"400" src="https://www.google.com/search?q=animated+coding+image&sxsrf=ALiCzsZZAbK_8-fPIUGHQr2BN8zCtGvC_w:1672773424921&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjtxqDOjqz8AhUG3jgGHYJtDfEQ_AUoAXoECAIQAw&biw=1707&bih=880&dpr=1.13#imgrc=ZmOH4FBlhx83-M&imgdii=55jyr3BK5duBpM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashukesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="ashukesarwani" /> </p>
 
