@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashukesarwani
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Web Devlopment
 - 📫 How to reach me ashukesarwani057@gmail.com
 
 <!---
